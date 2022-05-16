@@ -66,22 +66,6 @@ Foodfy é um site de receitas completo, que conta com parte de visita ao públic
 
 ---
 
-## Layout <a name="-layout" style="text-decoration:none"></a>
-
-### Seção de acesso público
-
-<h1 align="center">
-    <img alt="Gif" src="./public/assets/publicSection.gif" width="800px" />
-</h1>
-
-### Seção de acesso privado
-
-<h1 align="center">
-    <img alt="Gif Responsividade" src="./public/assets/privateSection.gif" width="800px" />
-</h1>
-
----
-
 ## Como executar o projeto <a name="-como-executar-o-projeto" style="text-decoration:none"></a>
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
