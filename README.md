@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Chef" src="./public/assets/chef.png" width="150px" />
+    <img alt="Chef" src="#" width="150px" />
 </h1>
 
 <h1 align="center">Foodfy</h1>
@@ -194,7 +194,7 @@ Pode ser que ao deletar um dos registros gerados automaticamente com o seeds, a 
 
 ## Autor <a name="-autor" style="text-decoration:none"></a>
 
-<img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/65625500?s=460&u=eb9e300de61698fc8531949a451ce2f0e9da46f9&v=4" width="100px;" alt=""/>
+<img style="border-radius: 50%;" src="#" width="100px;" alt=""/>
 <sub>Emanuel Massafera</sub>
 
 <b></b>
@@ -205,6 +205,6 @@ Pode ser que ao deletar um dos registros gerados automaticamente com o seeds, a 
 
 ## Licença <a name="-licenca" style="text-decoration:none"></a>
 
-Esse repositório está licenciado pela **MIT LICENSE**. Para informações detalhadas, leia o arquivo [LICENSE](https://github.com/emanuelmassafera/foodfy/blob/master/LICENSE). 
+Esse repositório está licenciado pela **MIT LICENSE**. Para informações detalhadas, leia o arquivo [LICENSE](https://github.com/AlanPrates). 
 
-Made with ♥ by Emanuel Massafera :wave: [Get in touch!](https://www.linkedin.com/in/emanuelmassafera/)
+Made with ♥ by Alan Prates :wave: [Get in touch!](https://www.linkedin.com/in/AlanPrates/)
