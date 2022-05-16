@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Chef" src="#" width="150px" />
+   
 </h1>
 
 <h1 align="center">Foodfy</h1>
@@ -125,11 +125,11 @@ $ .\pg_ctl.exe -D "C:\Program Files\PostgreSQL\12\data" stop
 
 ```
 
-Depois de ligar o PostgreSQL, acesse o Postbird e crie um banco de dados com o nome de foodfy. Feito isso, clique na opção de importar um arquivo .sql e importe o arquivo [foodfydb.sql](https://github.com/emanuelmassafera/foodfy/blob/master/foodfydb.sql) presente neste respositório. Você pode checar se o banco foi importado verificando suas tabelas. Se tudo deu certo até aqui, o seu banco de dados já está criado. 
+Depois de ligar o PostgreSQL, acesse o Postbird e crie um banco de dados com o nome de foodfy. Feito isso, clique na opção de importar um arquivo .sql e importe o arquivo [foodfydb.sql presente neste respositório. Você pode checar se o banco foi importado verificando suas tabelas. Se tudo deu certo até aqui, o seu banco de dados já está criado. 
 
 #### Observações
 
-Você deverá indicar suas informações de usuário e senha do postgres no arquivo [db.js](https://github.com/emanuelmassafera/foodfy/blob/master/src/config/db.js).
+Você deverá indicar suas informações de usuário e senha do postgres no arquivo [db.js]
 
 #### Populando o banco de dados
 
@@ -195,11 +195,8 @@ Pode ser que ao deletar um dos registros gerados automaticamente com o seeds, a 
 ## Autor <a name="-autor" style="text-decoration:none"></a>
 
 <img style="border-radius: 50%;" src="#" width="100px;" alt=""/>
-<sub>Emanuel Massafera</sub>
+<sub>Alan Prates</sub>
 
-<b></b>
-
-[![Badge](https://img.shields.io/static/v1?label=&message=Emanuel&color=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuelmassafera/)](https://www.linkedin.com/in/emanuelmassafera/) [![Badge](https://img.shields.io/static/v1?label=&message=emanuel301@live.com&color=0078D4&style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:emanuel301@live.com)](mailto:emanuel301@live.com)
 
 ---
 
